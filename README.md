@@ -1,7 +1,7 @@
 # Basic-API-Automation-Testing-With-Cypress
-This repository consists of Basic API Automation using Cypress, Mocha and JavaScript. I have automated the admin login, get all user lists, user creation for Customer and delete the recently created user.
+This repository consists of Basic API Automation using Cypress, Mocha, and JavaScript. I have automated the admin login, get all user lists, and user creation for Customers, and deleted the recently created user. Finally, I have created a report for all the test cases using Mochawesome Report.
 
-## Assigned Work Scenerio
+## Assigned Work Scenario
 1. Do Login by admin
 2. Get all the user list
 3. Create a new user
