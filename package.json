@@ -1,0 +1,18 @@
+{
+  "name": "cy_api_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "regression": "npx cypress run",
+    "smoke": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.17.2",
+    "cypress-mochawesome-reporter": "^3.5.1"
+  }
+}
